@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ziyinw3
-- 👀 I’m interested in biotechnology
+- 👀 I’m interested in biomedical engineering
 - 🌱 I’m currently learning Java, Python, and Javascript
 - 📫 How to reach me ziyinw3@illinois.edu
 
