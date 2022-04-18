@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ziyinw3
+- 👋 Hi, I’m Jane
 - 👀 I’m interested in biomedical engineering
 - 🌱 I’m currently learning Java, Python, and Javascript
 - 📫 How to reach me ziyinw3@illinois.edu
