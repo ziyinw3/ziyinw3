@@ -1,4 +1,4 @@
-Hi, my name is Jane! I'm also known as broqentoys, HugsNotDrugs, or Macchi.
+Hi, my name is Jane! Online, I'm also known as broqentoys, HugsNotDrugs, or Macchi.
 
 I have a little bit of experience with Python, Java, and Javascript, and I look forward to using code for data analysis.  
 Currently working on my scientific computing with python certificate!
